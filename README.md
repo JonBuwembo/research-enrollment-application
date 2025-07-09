@@ -34,7 +34,7 @@ Follow these instructions to set up and run the project locally on your machine.
 
     ```bash
     git clone https://github.com/WPI-CS3733-2024D/team-agilecodesters.git
-    cd student-enrollment-app
+    cd team-agilecodesters
 
     ```
 
